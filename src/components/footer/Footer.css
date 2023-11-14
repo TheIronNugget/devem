@@ -1,0 +1,12 @@
+.footer-con{
+    padding: 10px 50px;
+     display: flex;
+     justify-content: space-between;
+     background-color: black;
+}
+
+.ftext, .ftext2{
+    font-size: 10px;
+    color: white;
+    
+}

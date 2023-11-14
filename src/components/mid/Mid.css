@@ -1,0 +1,108 @@
+.mid-con{
+    height: fit-content;
+    width:100%;
+    display: flex;
+    padding: 100px 0;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    left:0;
+    top:-200px;
+}
+
+
+.titleblock{
+padding-left: 80px;
+}
+.textbk{
+    width: fit-content;
+    padding-left: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btus{
+    color: rgb(255, 144, 144);
+    font-size: 2rem;
+    text-align: start;
+    width: 80%;
+}
+.ttxt{
+    color: aliceblue;
+    text-align: start;
+    margin: 0 0 96px 0;
+    font-size: 3rem;
+    width: fit-content;
+    border-bottom: solid 1px white;
+    border-top: solid 1px white;;
+}
+
+.pg{
+    width:200px;
+    height: 200px;
+    border-radius: 20%;
+    border: solid 2px white;
+}
+.block{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.pp{
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 50%;
+}
+
+.b1,.b2{
+    margin-bottom: 50px;
+}
+
+.tc{
+    display: flex;
+    justify-content: center;
+    
+    align-self: center;
+    background-color: rgba(255, 0, 0, 0.361);
+    border-radius: 25px;
+    border: solid 1px white;
+    width: 40%;
+    height: 80%;
+    
+    
+}
+.eDes{
+    align-self: self-end;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.hsDes{
+    
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.medeqDes{
+    align-self: self-end;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.earth{
+    height: 300px;
+    width: 300px;
+    border-bottom-right-radius: 0;
+}
+
+.medeq{
+    height: 300px;
+    width: 300px;
+    border-bottom-right-radius: 0;
+}
+
+.bn{
+    width: 200px;
+    margin-top: 50px;
+}
