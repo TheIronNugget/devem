@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devem/static/css/main.a4f90353.css",
+    "main.js": "/devem/static/js/main.06e30eaf.js",
+    "static/media/texture.jpg": "/devem/static/media/texture.44e4a9f9a8175dd688b7.jpg",
+    "static/media/redrose2.jpg": "/devem/static/media/redrose2.efc6bc43f2e579db6e3c.jpg",
+    "static/media/medeq.png": "/devem/static/media/medeq.eca34ab5df3090f32bfd.png",
+    "static/media/earth.png": "/devem/static/media/earth.9bc97e4137ed32cd6429.png",
+    "static/media/handshake.png": "/devem/static/media/handshake.44b744a4b60ac3218d6c.png",
+    "static/media/speed.jpg": "/devem/static/media/speed.c54a7657c1152bb36deb.jpg",
+    "static/media/img1.png": "/devem/static/media/img1.2b4cad4272eb800f17ec.png",
+    "static/media/clock.jpg": "/devem/static/media/clock.37a65a56ebca314c67fd.jpg",
+    "static/media/slowClock.jpg": "/devem/static/media/slowClock.582190971fb048595717.jpg",
+    "index.html": "/devem/index.html",
+    "main.a4f90353.css.map": "/devem/static/css/main.a4f90353.css.map",
+    "main.06e30eaf.js.map": "/devem/static/js/main.06e30eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f90353.css",
+    "static/js/main.06e30eaf.js"
+  ]
+}
