@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/devem/static/css/main.a4f90353.css",
-    "main.js": "/devem/static/js/main.06e30eaf.js",
-    "static/media/texture.jpg": "/devem/static/media/texture.44e4a9f9a8175dd688b7.jpg",
-    "static/media/redrose2.jpg": "/devem/static/media/redrose2.efc6bc43f2e579db6e3c.jpg",
+    "main.css": "/devem/static/css/main.aa3d4aef.css",
+    "main.js": "/devem/static/js/main.d3c3a367.js",
+    "static/media/ckart.jpeg": "/devem/static/media/ckart.c3bb99f98df341630e21.jpeg",
     "static/media/medeq.png": "/devem/static/media/medeq.eca34ab5df3090f32bfd.png",
+    "static/media/cartk.mp4": "/devem/static/media/cartk.a671994f082f1f3c61ca.mp4",
     "static/media/earth.png": "/devem/static/media/earth.9bc97e4137ed32cd6429.png",
+    "static/media/red.png": "/devem/static/media/red.53378cd8741c7ea258ff.png",
+    "static/media/cfarcr.jpeg": "/devem/static/media/cfarcr.30f9f4d6c98443ad165c.jpeg",
+    "static/media/csidedr.jpeg": "/devem/static/media/csidedr.ca0bb82b69ae3e9698ed.jpeg",
     "static/media/handshake.png": "/devem/static/media/handshake.44b744a4b60ac3218d6c.png",
     "static/media/speed.jpg": "/devem/static/media/speed.c54a7657c1152bb36deb.jpg",
-    "static/media/img1.png": "/devem/static/media/img1.2b4cad4272eb800f17ec.png",
+    "static/media/logoreshapee.png": "/devem/static/media/logoreshapee.4cd53e0c8ebfee98ebc1.png",
     "static/media/clock.jpg": "/devem/static/media/clock.37a65a56ebca314c67fd.jpg",
     "static/media/slowClock.jpg": "/devem/static/media/slowClock.582190971fb048595717.jpg",
     "index.html": "/devem/index.html",
-    "main.a4f90353.css.map": "/devem/static/css/main.a4f90353.css.map",
-    "main.06e30eaf.js.map": "/devem/static/js/main.06e30eaf.js.map"
+    "main.aa3d4aef.css.map": "/devem/static/css/main.aa3d4aef.css.map",
+    "main.d3c3a367.js.map": "/devem/static/js/main.d3c3a367.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4f90353.css",
-    "static/js/main.06e30eaf.js"
+    "static/css/main.aa3d4aef.css",
+    "static/js/main.d3c3a367.js"
   ]
 }
