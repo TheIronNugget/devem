@@ -1,10 +1,27 @@
 .nav-con{
   display: flex;
   width:100%;
-
+  border-bottom: solid rgba(255, 255, 255, 0.411) 0.5px;
 
 
 }
+.logohug{
+  display: flex;
+
+  align-items: center;
+}
+.lnk{
+  height: 50px;
+  width: 50px;
+  margin-left: 50px;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+  margin-left: 50px;
+  
+}
+
 .nav-items {
   display: flex;
   width:100%;

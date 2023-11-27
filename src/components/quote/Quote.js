@@ -3,11 +3,11 @@ import './Quote.css';
 import speed from '../../images/speed.jpg';
 import slow from '../../images/slowClock.jpg';
 import reg from '../../images/clock.jpg';
-import texture from '../../images/texture.jpg';
+import red from '../../images/red.png';
 const Quote = () => {
   return (
     <div className='q-con' style={{
-      background:`linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.8)),url(${texture}) center/cover no-repeat`}}>
+      background:`linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,1)), url(${red})  center/cover no-repeat`}}>
         <div className="card c1">
           <div className="uclr clr1">Express</div>
           <div className="crdpic" style={{

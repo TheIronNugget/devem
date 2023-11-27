@@ -1,14 +1,25 @@
-.hero-con{
+.hero-con, .backplate{
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     justify-content: center;
     align-items: center;
+     position: relative;
+    
+}
+.backplate{
     position: relative;
-    z-index: 9999;
 }
 
+.imy{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left:60px;
+    top:160px;
+    
+}
 
 
 .text-con{
@@ -19,11 +30,15 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    z-index: 10;
 }
-
+.brd{
+    width:200px;
+    border-bottom: solid white 1px;
+}
 p{
     text-align: center;
-    font-size: 3em;
+    font-size: 4em;
 
 }
 
@@ -32,18 +47,20 @@ p{
     text-align: center;
     height: fit-content;
     margin-bottom: 24px;
+    font-weight: bold;
 }
 .mtext{
     font-size: 1em;
     width: 60%;
-    color: rgb(255, 238, 218);
+    color: rgba(254, 166, 166, 0.578);
+    font-weight: normal;
 }
 
 .btn-con{
     display: flex;
     flex-wrap: wrap;
    margin-top: 20px;
-    
+   z-index: 10;
 }
 
 .btn{
@@ -52,7 +69,7 @@ p{
     
     background-color: red;
     border:solid 2px red;
-    
+    z-index: 10;
     color: white;
 }
 

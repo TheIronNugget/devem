@@ -1,40 +1,50 @@
 .mid-con{
     height: fit-content;
+    margin-bottom: 50px;
     width:100%;
     display: flex;
-    padding: 100px 0;
+    padding: 0 0 100px 0;
     flex-direction: column;
     position: relative;
     align-items: center;
     left:0;
-    top:-200px;
+    top:0;
+    color:rgba(255, 34, 34, 0.708);
+    z-index: 998;
 }
 
-
+.upperMid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 .titleblock{
-padding-left: 80px;
+    width: 500px;
+    padding-left: 80px;
+    
 }
 .textbk{
-    width: fit-content;
-    padding-left: 80px;
+    width: 50%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .btus{
-    color: rgb(255, 144, 144);
-    font-size: 2rem;
+    color: rgb(255, 159, 159);
+    font-size: 1.5rem;
     text-align: start;
     width: 80%;
 }
 .ttxt{
     color: aliceblue;
     text-align: start;
-    margin: 0 0 96px 0;
-    font-size: 3rem;
+    border-right: solid rgba(255, 255, 255, 0.568) 0.5px;
+    border-bottom:solid rgba(255, 255, 255, 0.568) 0.5px;
+    font-size: 10rem;
     width: fit-content;
-    border-bottom: solid 1px white;
-    border-top: solid 1px white;;
+   justify-self: center;
+   font-style: italic;
 }
 
 .pg{
@@ -47,7 +57,7 @@ padding-left: 80px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    
 
 }
 .pp{
@@ -55,54 +65,95 @@ padding-left: 80px;
     color: rgb(255, 255, 255);
     text-align: center;
     width: 50%;
+    align-self: center;
+    margin-left: 20%;
 }
 
 .b1,.b2{
     margin-bottom: 50px;
 }
 
+.b1{
+    margin-top: 50px;
+}
 .tc{
     display: flex;
-    justify-content: center;
+    
     
     align-self: center;
     background-color: rgba(255, 0, 0, 0.361);
     border-radius: 25px;
     border: solid 1px white;
-    width: 40%;
+    min-width: 40%;
     height: 80%;
-    
+    border-left: solid black 1px;
+    max-width: 600px;
     
 }
-.eDes{
-    align-self: self-end;
+.eDes, .hsDes, .medeqDes{
+    
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
 }
 
-.hsDes{
+
+.imgnail{
     
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-}
-.medeqDes{
-    align-self: self-end;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-}
-.earth{
-    height: 300px;
-    width: 300px;
+    height: 118px;
+    width: 118px;
     border-bottom-right-radius: 0;
+   
 }
 
-.medeq{
-    height: 300px;
-    width: 300px;
-    border-bottom-right-radius: 0;
+.p1{
+    justify-content: center;
 }
+
 
 .bn{
     width: 200px;
     margin-top: 50px;
 }
+
+.blocks1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.r1{
+    rotate: -90deg;
+}
+.thumb{
+    visibility: hidden;
+    position: absolute;
+}
+.blocks3{
+    margin-left: 8%;
+    margin-top: 50px;
+}
+
+.buns{
+    filter: brightness(50%);
+    opacity: 80%;
+    border-radius: 25px;
+}
+@media only screen and (max-width: 1160px) {
+    .textbk {
+      padding-left: 80px;
+      width:80%;
+    }
+
+    
+  }
+
+  @media only screen and (max-width: 580px) {
+    .pp {
+      margin-left: 20px;
+    }
+
+    .imgnail{
+        margin-left: 60px;
+    }
+
+    
+  }
