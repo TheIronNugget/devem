@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/devem/static/css/main.ba35d4d6.css",
-    "main.js": "/devem/static/js/main.567dc89d.js",
+    "main.js": "/devem/static/js/main.1f25d13c.js",
     "static/media/ckart.jpeg": "/devem/static/media/ckart.c3bb99f98df341630e21.jpeg",
     "static/media/medeq.png": "/devem/static/media/medeq.eca34ab5df3090f32bfd.png",
-    "static/media/cartk.mp4": "/devem/static/media/cartk.a671994f082f1f3c61ca.mp4",
     "static/media/earth.png": "/devem/static/media/earth.9bc97e4137ed32cd6429.png",
+    "static/media/redsmudge.svg": "/devem/static/media/redsmudge.5f18e1ed6b6590eeb984e357cb29e453.svg",
     "static/media/red.png": "/devem/static/media/red.53378cd8741c7ea258ff.png",
     "static/media/cfarcr.jpeg": "/devem/static/media/cfarcr.30f9f4d6c98443ad165c.jpeg",
     "static/media/csidedr.jpeg": "/devem/static/media/csidedr.ca0bb82b69ae3e9698ed.jpeg",
@@ -16,10 +16,10 @@
     "static/media/slowClock.jpg": "/devem/static/media/slowClock.582190971fb048595717.jpg",
     "index.html": "/devem/index.html",
     "main.ba35d4d6.css.map": "/devem/static/css/main.ba35d4d6.css.map",
-    "main.567dc89d.js.map": "/devem/static/js/main.567dc89d.js.map"
+    "main.1f25d13c.js.map": "/devem/static/js/main.1f25d13c.js.map"
   },
   "entrypoints": [
     "static/css/main.ba35d4d6.css",
-    "static/js/main.567dc89d.js"
+    "static/js/main.1f25d13c.js"
   ]
 }
