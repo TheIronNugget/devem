@@ -29,7 +29,7 @@ const Mid = () => {
       />
   )} >
     
-  <div className="upperMid">
+  <div className="upperMid" id="about">
     <div className="titleblock">
       <p className='ttxt'>About Us</p>
     </div>

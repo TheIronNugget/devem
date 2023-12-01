@@ -6,7 +6,7 @@ import reg from '../../images/clock.jpg';
 import red from '../../images/red.png';
 const Quote = () => {
   return (
-    <div className='q-con' style={{
+    <div className='q-con' id="services" style={{
       background:`linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,1)), url(${red})  center/cover no-repeat`}}>
         <div className="card c1">
           <div className="uclr clr1">Express</div>

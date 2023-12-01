@@ -7,7 +7,7 @@ const Hero = () => {
     <div className='hero-con'>
     <div className="backplate">
         <div className="imy" style={{
-             background:`linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,1)), url(${im1}) center/cover no-repeat`
+             background:`linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,1)), url(${im1}) center/cover no-repeat`
            }} />
         <div className="text-con">
             <p className='wd'>HPG Transportation & Courier Services</p>
