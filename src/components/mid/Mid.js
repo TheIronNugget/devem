@@ -8,8 +8,7 @@ import medy from '../../images/medeq.png';
 import c1 from '../../images/cfarcr.jpeg';
 import c2 from '../../images/ckart.jpeg';
 import c3 from '../../images/csidedr.jpeg';
-import c4 from '../../images/cartk.mp4';
-
+import rs from '../../images/redsmudge.svg';
 
 
 
@@ -39,6 +38,7 @@ const Mid = () => {
         </p>
       </div>
       </div>
+      <Parallax  className='pr2' blur={50} bgImage={rs} bgImageAlt="redsmudge"   strength={-800} >
       <div className="blocks1">
         <div className="blocks2">
           <div className="block b1">
@@ -48,7 +48,7 @@ const Mid = () => {
               <div className="tc eDes">
                 <div className='imgnail' 
                   style={{
-                  background:`linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.1)), url(${earthy}) center/cover no-repeat`
+                  background:`linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0)), url(${earthy}) center/cover no-repeat`
                   }} 
                 />
 
@@ -62,7 +62,7 @@ const Mid = () => {
             <div className="tc hsDes">
             <div className='imgnail' 
             style={{
-            background:`linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.1)), url(${handy}) center/cover no-repeat`
+            background:`linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0)), url(${handy}) center/cover no-repeat`
             }} 
           />
               <p className='pp p2'> Our commitment is to consistently provide exceptional delivery that leave both you and your recipients fully content.</p>
@@ -77,7 +77,7 @@ const Mid = () => {
 
             <div className='imgnail' 
                   style={{
-                  background:`linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.1)), url(${medy}) center/cover no-repeat`
+                  background:`linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0)), url(${medy}) center/cover no-repeat`
                   }} 
                 />
               <p className='pp p3'> No matter if you require delivery of medical, legal, or automotive parts, HPG T&C Services are fully prepared to cater to your needs.  </p>
@@ -103,6 +103,7 @@ const Mid = () => {
         </Carousel>
         </div>
       </div>
+      </Parallax>
 
         
         
