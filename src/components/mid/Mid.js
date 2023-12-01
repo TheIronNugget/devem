@@ -38,7 +38,7 @@ const Mid = () => {
         </p>
       </div>
       </div>
-      <Parallax  className='pr2' blur={50} bgImage={rs} bgImageAlt="redsmudge"   strength={-800} >
+      <Parallax  className='pr2' blur={50} bgImage={rs} bgImageAlt="redsmudge"   strength={-300} >
       <div className="blocks1">
         <div className="blocks2">
           <div className="block b1">
