@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/devem/static/css/main.1f525f83.css",
+    "main.js": "/devem/static/js/main.d21c6ffa.js",
+    "static/media/ckart.jpeg": "/devem/static/media/ckart.c3bb99f98df341630e21.jpeg",
+    "static/media/cfarcr.jpeg": "/devem/static/media/cfarcr.1a29be6c152b906c8f49.jpeg",
+    "static/media/csidedr.jpeg": "/devem/static/media/csidedr.ca0bb82b69ae3e9698ed.jpeg",
+    "static/media/5296765_camera_instagram_instagram logo_icon.png": "/devem/static/media/5296765_camera_instagram_instagram logo_icon.ed071077fc911932f21a.png",
+    "static/media/logoreshapee.png": "/devem/static/media/logoreshapee.4cd53e0c8ebfee98ebc1.png",
+    "static/media/img1.png": "/devem/static/media/img1.2b4cad4272eb800f17ec.png",
+    "static/media/5296501_linkedin_network_linkedin logo_icon.png": "/devem/static/media/5296501_linkedin_network_linkedin logo_icon.9df3772694f9ed1c21b5.png",
+    "index.html": "/devem/index.html",
+    "main.1f525f83.css.map": "/devem/static/css/main.1f525f83.css.map",
+    "main.d21c6ffa.js.map": "/devem/static/js/main.d21c6ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f525f83.css",
+    "static/js/main.d21c6ffa.js"
+  ]
+}
