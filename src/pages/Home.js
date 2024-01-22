@@ -5,7 +5,14 @@ import Footer from '../components/footer/Footer';
 import Mid from '../components/mid/Mid';
 
 import Quote from '../components/quote/Quote';
-import Contacts from '../components/contacts/Contacts';
+import Carousel from '../components/Carousel/Carousel';
+import PreCon from '../components/preContact/PreCon';
+import Believe from '../components/believe/Believe';
+
+
+
+
+
 
 const Home = () => {
   return (
@@ -13,8 +20,10 @@ const Home = () => {
         <Navbar />
         <Hero />
         <Mid />
+        <Carousel />
+        <Believe />
         <Quote />
-        <Contacts />
+        <PreCon />
         <Footer />
         
     </div>

@@ -1,13 +1,19 @@
 .nav-con{
   display: flex;
   width:100%;
-  border-bottom: solid rgba(255, 255, 255, 0.411) 0.5px;
+  border-bottom: solid rgb(255, 255, 255) 0.5px;
+  flex-direction: column;
 
 
 }
+.together{
+  display: flex;
+  
+  width:100%;
+}
 .logohug{
   display: flex;
-
+  background-color: rgb(245, 183, 197);
   align-items: center;
 }
 .lnk{
@@ -30,16 +36,29 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000000;
+    background-color: rgb(245, 183, 197);
     justify-content: flex-end;
     
     
   }
   
+  Link{
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  Link:hover{
+    color:red;
+    transition: 0.5s;
+  }
   
   li a {
     display: block;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -49,4 +68,5 @@
 
   li a:hover{
     color:red;
+    transition: 0.5s;
   }

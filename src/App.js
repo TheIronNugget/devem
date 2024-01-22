@@ -1,12 +1,19 @@
-
-import Home from "./pages/Home";
-
+import { Routes, Route } from "react-router-dom";
+import Home from './pages/Home'
+import Contact from './components/contacts/Contacts.jsx'
 
 const App=()=> {
-  return <div className="">
-      <Home />
+  return(
+    <Routes>
+    
+    <Route path='/devem' element={<Home />} />
+      <Route path='contact' element={<Contact />} />
+    
       
-    </div>
+      
+  
+    </Routes>   
+  );
 };
 
 export default App;

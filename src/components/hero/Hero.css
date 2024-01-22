@@ -6,20 +6,15 @@
     justify-content: center;
     align-items: center;
      position: relative;
+     
     
 }
 .backplate{
     position: relative;
+    background-color: rgba(0, 0, 0, 0.438);
 }
 
-.imy{
-    width: 500px;
-    height: 500px;
-    position: absolute;
-    left:60px;
-    top:160px;
-    
-}
+
 
 
 .text-con{
@@ -34,7 +29,17 @@
 }
 .brd{
     width:200px;
-    border-bottom: solid white 1px;
+    border-bottom: solid rgb(255, 93, 93) 2px;
+
+    
+  
+  
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #ff0000,
+              0 0 0.8rem #ff0000,
+              0 0 2.8rem #ff0000,
+              inset 0 0 1.3rem #ff0000;
 }
 p{
     text-align: center;
@@ -52,7 +57,7 @@ p{
 .mtext{
     font-size: 1em;
     width: 60%;
-    color: rgba(254, 166, 166, 0.578);
+    color: rgba(254, 181, 181, 0.689);
     font-weight: normal;
 }
 
@@ -65,8 +70,9 @@ p{
 
 .btn{
 
-    padding: 10px 20px;
     
+    height: 40px;
+    width: 150px;
     background-color: red;
     border:solid 2px red;
     z-index: 10;
@@ -93,6 +99,25 @@ p{
 .bt1:hover{
     background-color: black;
     color: white;
+    
 }
+
+.yayo{
+    text-decoration: none;
+    color: red;
+    width: 100%;
+    height: 100%;
+}
+.yayo:hover{
+    color:white;
+}
+.yay{
+    text-decoration: none;
+    color:white;
+}
+.yay:hover{
+    color: rgb(0, 0, 0);
+}
+
 
 

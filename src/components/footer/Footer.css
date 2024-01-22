@@ -3,6 +3,7 @@
      display: flex;
      justify-content: space-between;
      background-color: black;
+     position:relative;
 }
 
 .ftext, .ftext2{

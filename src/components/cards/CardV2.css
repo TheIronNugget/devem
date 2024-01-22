@@ -1,0 +1,52 @@
+.cardCon{
+    width: 200px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.tt{
+    text-align: center;
+}
+
+.tword{
+    font-size: 30px;
+    margin: 0;
+}
+
+.day{
+    font-size: 23px;
+}
+.dayAdd, .adderk2{
+    font-size: 15px;
+}
+
+.perk{
+    font-size: 23px;
+}
+
+.line{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.799);
+    width:80px;
+    margin:0 auto;
+}
+
+.cardCon:hover{
+    transition: 1s;
+    border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  background-color: #fe5b81;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem red,
+              0 0 0.8rem red,
+              0 0 2.8rem red,
+              inset 0 0 1.3rem red;
+             
+}
+.dayAdd{
+    color: rgba(0, 0, 0, 0.678);
+}
