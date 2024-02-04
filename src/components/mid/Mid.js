@@ -30,7 +30,7 @@ const Mid = () => {
     </div>
       <div className="textbk">
         <p className="btus ">
-        We believe that there is a place for high-quality, efficient, and safe deliveries. Our goal is to create standard of excellence through our services and products. To create a transportation network with greater reach while cultivating and maintaining our client's trust with our exellent shipping and recieving of products.
+        <span>We believe </span>that there is a place for high-quality, efficient, and safe deliveries. Our goal is to create standard of excellence through our services and products. < br/>< br/><span>To create </span> a transportation network with greater reach while cultivating and maintaining our client's trust with our exellent shipping and recieving of products.
         </p>
       </div>
       </div>

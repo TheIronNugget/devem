@@ -39,12 +39,12 @@
   border-radius: 2rem;
   padding: 0.4em;
   background-color: #fe5b81;
-  box-shadow: 0 0 .2rem #fff,
+  /* box-shadow: 0 0 .2rem #fff,
               0 0 .2rem #fff,
               0 0 2rem red,
               0 0 0.8rem red,
               0 0 2.8rem red,
-              inset 0 0 1.3rem red;
+              inset 0 0 1.3rem red; */
              
 }
 .dayAdd{

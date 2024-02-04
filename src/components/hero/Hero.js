@@ -1,7 +1,7 @@
 import './Hero.css';
 import im1 from '../../images/img1.png';
 import { Parallax } from 'react-parallax';
-import { Link, Outlet } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 const Hero = () => {

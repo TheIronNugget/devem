@@ -7,6 +7,7 @@ const Quote = () => {
   return (
     <div className="wrapper" id="services">
       <p className='qc'>Services</p>
+      <p className='sqc'>Contact us to set schedule & price or for hiring purposes</p>
     <div className='quoteCon' >
       <CardV2 title="Economy" days="Monday-Friday" perks="6am-6pm" />
       <CardV2 title="Standard" days="Monday-Friday" adday="+Saturday" perks="6am-6pm" adderk2="6am-1pm" />
